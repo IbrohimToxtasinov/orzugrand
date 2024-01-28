@@ -1,0 +1,15 @@
+{
+  "appLanguages": "Язык приложения",
+  "uzbek": "Узбекский",
+  "russian": "Русский",
+  "english": "Английский",
+  "home": "Главная",
+  "catalog": "Каталог",
+  "cart": "Корзина",
+  "favorites": "Избранное",
+  "profile": "Профиль",
+  "hello": "Здравствуйте",
+  "recommended": "Рекомендуем вам",
+  "productDay": "Товар дня",
+  "searchProducts": "Поиск товаров"
+}
